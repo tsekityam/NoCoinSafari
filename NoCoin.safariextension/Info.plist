@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Author</key>
+	<string>Tse Kit Yam</string>
+	<key>Builder Version</key>
+	<string>13604.4.7.1.3</string>
+	<key>CFBundleDisplayName</key>
+	<string>No Coin</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.kytse.nocoin</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>Content</key>
+	<dict>
+		<key>Content Blocker</key>
+		<string>filterList.json</string>
+	</dict>
+	<key>Description</key>
+	<string>No Coin is a tiny content blocker aiming to block coin miners such as Coinhive.</string>
+	<key>DeveloperIdentifier</key>
+	<string>JVD8WT99LB</string>
+	<key>ExtensionInfoDictionaryVersion</key>
+	<string>1.0</string>
+	<key>Website</key>
+	<string>https://github.com/tsekityam/No-Coin</string>
+</dict>
+</plist>
